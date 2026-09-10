@@ -1,0 +1,5 @@
+import numpy as numpy
+import pandas as pd
+import csv 
+
+with open("pd.read_csv("/Users/kenny/Documents/SGJobsData.csv"", newline="") as f:
